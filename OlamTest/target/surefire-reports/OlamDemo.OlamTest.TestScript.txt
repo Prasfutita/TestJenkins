@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: OlamDemo.OlamTest.TestScript
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 553.628 sec - in OlamDemo.OlamTest.TestScript
